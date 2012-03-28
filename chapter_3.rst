@@ -2,9 +2,12 @@ Chapter 3 - Meet the LEDs
 -----------------------------------
 
 sizes
-form factors - strips, SMT, 
+form factors - strips, SMT, domed 
 RGB
 specs - mcd, forward voltage, current
+
+LEDs will allow whatever current is available through. That's why resistors (or constant current drivers) are needed. You shouldn't use PWM in place of resistors for example: http://www.instructables.com/id/Ghetto-Pixels-Building-an-open-source-BlinkM/#commentactioncontainer_CF0Q2CTGP7IS5IH
+
 http://www.pcbheaven.com/userpages/LED_driving_and_controlling_methods/?topic=presentation
 
 Hackable Consumer Products
