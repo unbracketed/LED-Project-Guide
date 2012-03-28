@@ -1,16 +1,17 @@
 libraries
-shiftpwm
-fastspi
+
+* shiftpwm
+* fastspi
 
 
-shift registers
-drivers 
-TLC5940
-MAX....
-HL1606
-LPD6803
-size and input comparisons of the ICs
-form factor: DIP, SOP14
+* shift registers - how much current can they sink/source
+* drivers 
+* TLC5940 - common anode
+* MAX....
+* HL1606
+* LPD6803
+* size and input comparisons of the ICs
+* form factor: DIP, SOP14
 
 AVR vs. PIC
 http://www.instructables.com/id/Aurora-9x18-RGB-LED-art/step2/Circuit/
