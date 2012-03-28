@@ -14,3 +14,9 @@ multiplexing
 calculating duty cycles and available bandwidth
 
 http://www.reddit.com/r/electronics/comments/r733u/a_simple_onetransistor_constant_current_circuit/
+
+Exercises
+---------
+
+Faux candle
+http://www.reddit.com/r/electronics/comments/rhc3n/im_making_the_ultimate_led_candle_simulator_with/
