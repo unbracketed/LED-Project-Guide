@@ -35,11 +35,17 @@ Or you can reserve a copy of Arduino Cookbook from the local library
 Arduino tutorials
 Note: you can use alternative editors
 
+Prototyping Tips
+----------------
 
-Exercises
--------------
+Get some header pins so you can plug directly into breadboard
+Arduino's funky pin dimensions - adjust the pins 
 
-basic light
-blink light
+Diagnostics
+-----------
 
+Ways to test LED works
 
+* Plug into pin 13 
+* Breadboard with resistor and 9v
+* Testing common cathode and common anode RGB LEDs
