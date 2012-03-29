@@ -10,6 +10,8 @@ LEDs will allow whatever current is available through. That's why resistors (or 
 
 http://www.pcbheaven.com/userpages/LED_driving_and_controlling_methods/?topic=presentation
 
+BlinkM
+
 Hackable Consumer Products
 ---------------------------
 
