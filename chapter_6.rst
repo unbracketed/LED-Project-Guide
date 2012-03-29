@@ -15,6 +15,8 @@ calculating duty cycles and available bandwidth
 
 http://www.reddit.com/r/electronics/comments/r733u/a_simple_onetransistor_constant_current_circuit/
 
+Software PWM  http://arduino.cc/playground/Main/PWMallPins
+
 Exercises
 ---------
 
