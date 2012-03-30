@@ -12,6 +12,8 @@ http://www.pcbheaven.com/userpages/LED_driving_and_controlling_methods/?topic=pr
 
 BlinkM
 
+RGB deserves a little special treatment because they are really 3 lights in one. Common anode vs. common cathode: http://flashgamer.com/arduino/comments/rgb-led-common-cathode-or-common-anode
+
 Hackable Consumer Products
 ---------------------------
 
