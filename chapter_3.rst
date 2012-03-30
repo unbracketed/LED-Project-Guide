@@ -1,9 +1,12 @@
 Chapter 3 - Meet the LEDs
------------------------------------
+===================================
 
 sizes
+
 form factors - strips, SMT, domed 
+
 RGB
+
 specs - mcd, forward voltage, current
 
 LEDs will allow whatever current is available through. That's why resistors (or constant current drivers) are needed. You shouldn't use PWM in place of resistors for example: http://www.instructables.com/id/Ghetto-Pixels-Building-an-open-source-BlinkM/#commentactioncontainer_CF0Q2CTGP7IS5IH
@@ -18,7 +21,7 @@ Hackable Consumer Products
 ---------------------------
 
 * GE light strings
-__IKEA Dioder__ 
+* IKEA Dioder 
 
 Product Page: http://www.ikea.com/us/en/catalog/products/20119418/
 Tutorials: 

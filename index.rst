@@ -3,14 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Guide to LED and Hobby Lighting Projects's documentation!
-====================================================================
+Guide to LED and Hobby Lighting Projects
+========================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
-
+    
+   chapter_1
+   chapter_2
+   chapter_3
+   chapter_4
+   chapter_5
+   chapter_6
 
 
 Indices and tables

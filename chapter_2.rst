@@ -1,5 +1,5 @@
 Chapter 2 - Electricity and Digital Circuits
-------------------------------------------------------
+======================================================
 
 basic elec.
 	voltage, current, power
@@ -16,5 +16,3 @@ Exercises
 alternate flashing lights
 fader
 chaser / sequence
-
-

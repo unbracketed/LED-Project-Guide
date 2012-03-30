@@ -1,5 +1,5 @@
-Getting Started
-===============
+Chapter 1 - Getting Started
+===========================
 
 * Arduino
 * A few LEDs

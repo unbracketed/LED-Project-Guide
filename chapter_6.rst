@@ -1,13 +1,12 @@
-Chapter - Signals and Multiplexing
-=========================
+Chapter 6 - Signals and Multiplexing
+====================================
 
-pwm
-modulation
-PAM
 PWM
-PDM
+
 http://en.wikipedia.org/wiki/Pulse-amplitude_modulation#Use_in_electronic_drivers_for_LED_lighting
+
 Switching speed and resolution
+
 generating pulses signals with hardware: PWM pins, timer ICs, etc.
 
 multiplexing
