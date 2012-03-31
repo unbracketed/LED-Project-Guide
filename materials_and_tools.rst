@@ -4,7 +4,7 @@ Materials and Tools
 First steps
 -----------
 
-Arduino
+* Arduino
 * A few LEDs
 * A few resistors 220ohm
 * Breadboard

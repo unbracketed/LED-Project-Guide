@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
     
    chapter_1
+   materials_and_tools
    chapter_2
    chapter_3
    chapter_4
