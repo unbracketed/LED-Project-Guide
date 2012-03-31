@@ -1,4 +1,4 @@
-Chapter 6 - Signals and Multiplexing
+Signals and Multiplexing
 ====================================
 
 PWM

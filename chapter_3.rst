@@ -1,4 +1,4 @@
-Chapter 3 - Meet the LEDs
+Meet the LEDs
 ===================================
 
 sizes

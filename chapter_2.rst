@@ -1,4 +1,4 @@
-Chapter 2 - Electricity and Digital Circuits
+Electricity and Digital Circuits
 ======================================================
 
 basic elec.

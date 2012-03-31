@@ -1,4 +1,4 @@
-Chapter 5 - LED circuits
+LED circuits
 ========================
 
 arangements

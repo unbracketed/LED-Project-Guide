@@ -1,4 +1,4 @@
-Chapter 1 - Getting Started
+Getting Started
 ===========================
 
 * Arduino

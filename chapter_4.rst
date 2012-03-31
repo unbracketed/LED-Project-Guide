@@ -1,4 +1,4 @@
-Chapter 4 - Planning Your Project
+Planning Your Project
 ============================================
 
 http://www.reddit.com/r/electronics/comments/r42iu/need_help_with_choosing_driver_for_leds/
