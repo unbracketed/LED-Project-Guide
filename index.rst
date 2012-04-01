@@ -11,13 +11,13 @@ Contents:
 .. toctree::
    :maxdepth: 2
     
-   chapter_1
+   intro
    materials_and_tools
-   chapter_2
-   chapter_3
-   chapter_4
-   chapter_5
-   chapter_6
+   electronics_prerequisites
+   LEDs
+   project_planning
+   circuits
+   signals_and_multiplexing
 
 
 Indices and tables
