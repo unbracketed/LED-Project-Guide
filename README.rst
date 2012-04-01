@@ -4,6 +4,8 @@ Introduction
 This is a guide intended for hobbyists focused on building small-scale digital lighting projects, 
 written from the perspective of a software veteran jumping into the world of microcontrollers and basic digital circuits. 
 
+http://readthedocs.org/docs/guide-to-led-and-hobby-lighting-projects/
+
 Why?
 ----
 
