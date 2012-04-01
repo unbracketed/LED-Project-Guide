@@ -17,7 +17,7 @@ A couple things I discovered initially:
 * It takes some effort to figure out what you need to know. Even seemingly simple schematics might employ a number of important electrical engineering techniques.
   Connecting the dots and understanding the whys can take some poking around.
 
-I’ve noticed a lot of [redditors](http://reddit.com/r/arduino/) often have similar questions to myself regarding driving LED circuits so this is an attempt to gather up the best bits and pieces I’ve found. 
+I’ve noticed a lot of `redditors <http://reddit.com/r/arduino/>`_ often have similar questions to myself regarding driving LED circuits so this is an attempt to gather up the best bits and pieces I’ve found. 
 This guide is an attempt to document my learning and organize the helpful pieces of information I've found in case it might help others. 
 
 Audience

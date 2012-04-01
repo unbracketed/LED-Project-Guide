@@ -48,18 +48,18 @@ What follows is an attempt at a basic cross-section of options and consideration
 
 **Inspiration**
 
-* Look through some Instructables for inspiration and learning. Some are better than others. [LED Projects on Instructables](http://www.instructables.com/tag/type-id/category-technology/channel-leds/)
+* Look through some Instructables for inspiration and learning. Some are better than others. `LED Projects on Instructables <http://www.instructables.com/tag/type-id/category-technology/channel-leds/>`_
 
 **Reality Check**
 
 This is a pretty advanced project and a source of inspiration for me. Reading through the specs a hundred times and researching what I didn't know helped me learn a lot. Note that this project uses a different microcontroller - the PIC. The operating principles show what is possible with minimal hardware and very tight design. 
 
-* [Aurora](http://www.instructables.com/id/Aurora-9x18-RGB-LED-art/)
-* [Aurora Mini](http://www.instructables.com/community/Aurora-mini-18-Kit-and-PCB/)
+* `Aurora <http://www.instructables.com/id/Aurora-9x18-RGB-LED-art/>`_
+* `Aurora Mini <http://www.instructables.com/community/Aurora-mini-18-Kit-and-PCB/>`_
 
 This is an example of an installation done by people who really know their stuff and with many hours of professional labor 
 
-* [100 Lanterns](http://vimeo.com/19346650) and the [blog post](http://macetech.com/blog/node/111)
+* `100 Lanterns <http://vimeo.com/19346650>`_ and the `blog post <http://macetech.com/blog/node/111>`_
  
 Temper your expectations and dreams accordingly :)
 
@@ -86,10 +86,10 @@ A rough and opinionated breakdown of some options suitable for the novice:
 
 *Aesthetic is very important*
 
-* If you want to go the DIY route, you'll need to have an understanding of these PWM and multiplexing [Arduino wiki - Output techniques (see LED sections)](http://arduino.cc/playground/Main/InterfacingWithHardware#Output) If you can understand how controlling a matrix works using these techniques, you should be able to achieve other form factors by grouping lights together in similar ways. 
-* [ShiftPWM](http://www.elcojacobs.com/shiftpwm/) is a nice option for getting started. Shift registers are cheap and the wiring is as easy as the registers, resistors and LEDs. The library is easy to get started with. 
-* There are many LED driver ICs (chips). TLC5940 is a fairly popular one with a [nice library](http://code.google.com/p/tlc5940arduino/). The chips are a little more expensive than shift registers and offer some nice capabilities. This solution offers more power and flexibility than ShiftPWM with the tradeoff of more cost and more learning time to harness and understand the capabilities of the chip.
-* [FastSPI](http://code.google.com/p/fastspi/) gives you the flexibility to write your lighting routines and then change the supporting driver chips. 
+* If you want to go the DIY route, you'll need to have an understanding of these PWM and multiplexing `Arduino wiki - Output techniques (see LED sections) <http://arduino.cc/playground/Main/InterfacingWithHardware#Output>`_ If you can understand how controlling a matrix works using these techniques, you should be able to achieve other form factors by grouping lights together in similar ways. 
+* `ShiftPWM <http://www.elcojacobs.com/shiftpwm/>`_ is a nice option for getting started. Shift registers are cheap and the wiring is as easy as the registers, resistors and LEDs. The library is easy to get started with. 
+* There are many LED driver ICs (chips). TLC5940 is a fairly popular one with a `nice library <http://code.google.com/p/tlc5940arduino/>`_. The chips are a little more expensive than shift registers and offer some nice capabilities. This solution offers more power and flexibility than ShiftPWM with the tradeoff of more cost and more learning time to harness and understand the capabilities of the chip.
+* `FastSPI <http://code.google.com/p/fastspi/>`_ gives you the flexibility to write your lighting routines and then change the supporting driver chips. 
 
 ------------------------
 
@@ -109,12 +109,12 @@ A rough and opinionated breakdown of some options suitable for the novice:
 
 There are Arduino-compatible boards that are designed with lighting projects in mind: 
 
-* [Rainbowduino](http://www.seeedstudio.com/depot/rainbowduino-led-driver-platform-atmega-328-p-371.html)
+* `Rainbowduino <http://www.seeedstudio.com/depot/rainbowduino-led-driver-platform-atmega-328-p-371.html>`_
 
 Arduino LED shields
 
-* [Color shield](http://iteadstudio.com/store/index.php?main_page=product_info&products_id=312)
-* [Power LED shield](http://www.chestersgarage.com/documentation/power-led-shield) is a more advanced and expensive shield for controlling higher power LEDs.
+* `Color shield <http://iteadstudio.com/store/index.php?main_page=product_info&products_id=312>`_
+* `Power LED shield <http://www.chestersgarage.com/documentation/power-led-shield>`_ is a more advanced and expensive shield for controlling higher power LEDs.
 
 ------------------------
 
@@ -133,8 +133,8 @@ Arduino LED shields
 
 *Flexible form factor*
 
-* [ShiftBrite Shield](http://macetech.com/store/index.php?main_page=product_info&products_id=7) and [ShiftBrite lib](http://arduino.cc/playground/Main/ShiftBriteLib)
+* `ShiftBrite Shield <http://macetech.com/store/index.php?main_page=product_info&products_id=7>`_ and `ShiftBrite lib <http://arduino.cc/playground/Main/ShiftBriteLib>`_
 * As others mentioned, LED strips are a nice option although they might not be the form factor you want. Some of the strips can be separated into multiple segments (one or two lights for example). The nice thing is the if you can accept the form factor limitations, the wiring construction is much simpler for being able to control up to dozens of nice lights. 
-* Something like [BlinkM](http://thingm.com/products/blinkm) is the equivalent of an individual strip pixel but you have the freedom to build it into your own form factor. 
-* [DIY RGB LED pixel](http://www.instructables.com/id/Ghetto-Pixels-Building-an-open-source-BlinkM/). You could start by building a few of these at a time as you learn.
+* Something like `BlinkM <http://thingm.com/products/blinkm>`_ is the equivalent of an individual strip pixel but you have the freedom to build it into your own form factor. 
+* `DIY RGB LED pixel <http://www.instructables.com/id/Ghetto-Pixels-Building-an-open-source-BlinkM/>`_. You could start by building a few of these at a time as you learn.
 * Various driver boards and kits that have their own user-friendly programming packages. These will cut way down on what you need to learn for circuit construction and programming - at the expense of creative and form factor control. A lot of these are designed for industrial / larger scale use, but that's probably closer to what you're ultimately after in public / larger spaces.
