@@ -1,16 +1,25 @@
 LED circuits
 ========================
 
-arangements
+Make sure you understand
 
-* single, group / array, matrix
-* series, parallel
+* Forward Voltage and Current
 
-behaviors
+A nice intro tutorial to understanding the calculations and principles of
+basic LED wiring arrangements.
+http://www.ladyada.net/learn/arduino/LEDs.html
 
-* on steady
-* fade
-* blink
-
+More advanced - learn about use of transistors and constant current circuits.
 http://www.pcbheaven.com/userpages/LED_driving_and_controlling_methods/?topic=presentation
-http://www.reddit.com/r/electronics/comments/r733u/a_simple_onetransistor_constant_current_circuit/
+
+
+
+Things You Should Not Do With LEDs
+----------------------------------
+
+* Connect directly to battery
+* Connect to a power source without a resistor (or a constant current driver)
+* Connect to an Arduino pin without a resistor
+* Connect in parallel without resistors
+* Think that you don't have to limit current because you're using PWM
+  

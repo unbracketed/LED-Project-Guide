@@ -1,21 +1,51 @@
 Meet the LEDs
 ===================================
 
-sizes
+Form Factors (size, shape, type)
+--------------------------------
 
-form factors - strips, SMT, domed 
+**Bulb**
 
-RGB
+3mm 5mm
 
-specs - mcd, forward voltage, current
+**RGB**
 
-LEDs will allow whatever current is available through. That's why resistors (or constant current drivers) are needed. You shouldn't use PWM in place of resistors for example: http://www.instructables.com/id/Ghetto-Pixels-Building-an-open-source-BlinkM/#commentactioncontainer_CF0Q2CTGP7IS5IH
+RGB is really 3 lights in one. 
 
-http://www.pcbheaven.com/userpages/LED_driving_and_controlling_methods/?topic=presentation
+Common anode vs. common cathode: http://flashgamer.com/arduino/comments/rgb-led-common-cathode-or-common-anode
+
+If you are mixing colors, diffused LEDs might be better otherwise you can see the individual diodes lit.
+
+**Pixel**
 
 BlinkM
 
-RGB deserves a little special treatment because they are really 3 lights in one. Common anode vs. common cathode: http://flashgamer.com/arduino/comments/rgb-led-common-cathode-or-common-anode
+Ghetto Pixel http://www.instructables.com/id/Ghetto-Pixels-Building-an-open-source-BlinkM/#commentactioncontainer_CF0Q2CTGP7IS5IH
+
+**Strip**
+
+**Array / Matrix**
+
+**7 segment**
+
+**High Power**
+
+**SMT**
+
+Properties
+----------
+
+**Operating Properties**
+
+* Forward Voltage
+* Forward Current
+
+**Light properties**
+
+* Luminosity / Luminous Intensity / Brightness
+* Wavelength
+* Viewing Angle
+
 
 Hackable Consumer Products
 ---------------------------
@@ -28,11 +58,4 @@ Tutorials:
 
 * http://marco-difeo.de/2012/03/28/irdioder-ikea-dioder-hack-mit-atmel-und-infrarotempfanger/  
 
-RGB
 
-If you are mixing colors, diffused LEDs might be better otherwise you can see the individual diodes lit.
-
-Exercises
--------------
-
-current measurements and calculations for some basic circuits

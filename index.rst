@@ -17,7 +17,7 @@ Contents:
    LEDs
    project_planning
    circuits
-   signals_and_multiplexing
+
 
 
 Indices and tables
